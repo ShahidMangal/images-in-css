@@ -1,0 +1,68 @@
+/* image-size */
+/* img{
+    width: 220px;
+    height: 200px;
+} */
+/* Aligning images */
+/* img{
+    margin-left: 200px;
+}
+img{
+    float: right;
+} */
+/* CENTERING IMAGES */
+/* img{
+    display: block;
+    margin: auto;
+}
+/* BACKGROUND IMAGES */
+/* body{
+    background-image: url('./images/pic01.jpg');
+    background-attachment: fixed;
+  
+} */ 
+/* background position */
+/* body{
+    background-image: url('./images/pic4.jpg');
+    background-position: left center;
+    background-attachment: fixed;
+} */
+/* background shorthand */
+/* body{
+    background: #ffffff url("images/pic01.jpg" no-repeat top right);
+
+} */
+/* Linear gradient */
+/* body{
+    background-image: linear-gradient(red, yellow);
+    background-repeat: no-repeat;
+    height: 100vh;
+} */
+/* #gradient-contanier{
+    width: 200px;
+    height: 200px;
+    /* background-color: red;
+    background-image: linear-gradient(45deg, red, yellow); */
+  margin: auto;
+  /* background-image: radial-gradient(red, yellow) ;   */
+} */
+
+
+
+/* conical gradienyt */
+
+/* #gradient-contanier{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image:conic (red, yellow);
+    margin: auto;
+   e:
+  } */
+  /* #gradient-contanier {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-image: conic-gradient(red, yellow, green);
+    background-image: conic-gradient(red 45deg, yellow 90deg, green 210deg);
+  } */
